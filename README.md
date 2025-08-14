@@ -36,7 +36,7 @@ Materials for the Docker container used to run OpenRouteService and draw graphs
 ---
 
 ## Goal:  
-**Determine and Improve Inaccuracies in Open Street Map.**  
+**Determine Inaccuracies in Open Street Map.**  
 * We do this by comparing the open-source durations to Google Maps durations, which account for **time of day**.
 
 ---
@@ -99,11 +99,11 @@ Directions for the paths and a corresponding matrix containing which paths have 
 - geometry: coordinates of points making up each shortest path, and their waycategory 
 - waycategory: a matrix for each area of sources, where each cell is marked 1 is a highway is present somewhere in the path between the source and target and 0 if no highway is present
 
-
 ## Results:
 
+The differences between google maps duration times and openrouteservice duration times have a negative difference for Mount Airy and Germantown suburbs, inbound to Center City Philadelphia.
 
-The differences between google maps duration times and openrouteservice duration times have a negative difference for Mount Airy and Germantown suburbs, inbound to Center City Philadelphia
+The difference for Drexel Hill and Northeast suburbs, inbound to Center City Philadelphia is positive. Drexel Hill durations have a larger mean than Northeast durations into the city:
 
 
 
