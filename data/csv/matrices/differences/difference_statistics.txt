@@ -1,0 +1,47 @@
+============= Drexel Hill =============
+(Morning 07/29/25 8:00)
+Mean:  511.4540800000001
+Median:  501.82499999999993
+Standard Deviation:  74.9121768872965
+
+(Afternoon 07/29/25 13:30)
+Mean:  501.22888000000006
+Median:  501.5200000000001
+Standard Deviation:  85.92708164825336
+
+(Evening 07/29/25 17:00)
+Mean:  497.41688000000005
+Median:  500.02
+Standard Deviation:  82.85692848341411
+
+============= Northeast ===============
+(Morning 07/29/25 8:00)
+Mean:  305.96698
+Median:  305.495
+Standard Deviation:  107.54839119633357
+
+(Afternoon 07/29/25 13:30)
+Mean:  353.14738
+Median:  351.81999999999994
+Standard Deviation:  104.04576255848
+
+(Evening 07/29/25 17:00)
+Mean:  350.75178
+Median:  349.69500000000005
+Standard Deviation:  102.87051611648306
+
+======= Mount Airy & Germantown =======
+(Morning 07/29/25 8:00)
+Mean:  -89.082752
+Median:  -105.98500000000001
+Standard Deviation:  95.36965364363287
+
+(Afternoon 07/29/25 13:30)
+Mean:  -87.288352
+Median:  -104.03499999999997
+Standard Deviation:  96.13296945961929
+
+(Evening 07/29/25 17:00)
+Mean:  -58.293552000000005
+Median:  -73.09499999999991
+Standard Deviation:  113.39078628893661
